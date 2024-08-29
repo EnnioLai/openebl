@@ -1,0 +1,5 @@
+application_key: OuqoQXmvBXkc2rzMS9DOPQ:wpGaxBwAnYSbHQGlbp_Jj1Dy3rSBgGRuFDsxnEyMmvs
+bu_server_url: http://localhost:8080
+cert_authority_url: http://localhost:9100
+cert_authority_cert_id: c3d597dd-8401-41c7-9e9d-c9f311faf8e0
+cert_valid_duration: 365 # days
